@@ -5,7 +5,7 @@
 
 # Preréquis : Installez docker-compose ainsi que ses dépendances.
 
-## Pour ce faire : 
+## C'est parti !  
 
 1- Creer un dossier dockercomposetp dans lequel nous allons bosser.
 
