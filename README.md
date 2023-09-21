@@ -1,7 +1,7 @@
 ### Odoo est le programme de gestion d'entreprise le plus évolutif et le plus installé au monde grâce à ses applications répondant à tous les besoins d'une entreprise, de la gestion de la relation client à la création de sites web et d'e-commerce, en passant par la production, la gestion d'inventaire, la comptabilité ..
 
 
-# Dans ce tp nous allons déploiyer une web app "odoo" a l'aide d'un fichier docker-compose.yaml
+# Dans ce tp nous allons déployer une web app "odoo" a l'aide d'un fichier docker-compose.yaml
 
 # Preréquis : Installez docker-compose ainsi que ses dépendances.
 
